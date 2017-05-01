@@ -1,0 +1,30 @@
+body{
+  background-color: #fffcdb;
+}
+h1{
+  font-family: 'Oswald', sans-serif;
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+}
+h3{
+  font-family: 'Oswald', sans-serif;
+}
+h4{
+  font-family: 'Oswald', sans-serif;
+}
+p{
+  font-family: 'Muli', sans-serif;
+}
+.dropdown.menu > li.is-dropdown-submenu-parent > a::after{
+  border-color: #d81f6a transparent transparent;
+}
+.top-bar{
+  background-color: #f0efef;
+}
+.top-bar ul{
+  background-color: #f0efef;
+}
+.flushright{
+  float: right;
+}
