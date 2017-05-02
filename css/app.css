@@ -28,3 +28,6 @@ p{
 .flushright{
   float: right;
 }
+#outline{
+  outline:2px solid red ;
+}
