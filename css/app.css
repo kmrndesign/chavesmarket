@@ -16,6 +16,9 @@ h4{
 p{
   font-family: 'Muli', sans-serif;
 }
+li{
+  font-family: 'Muli', sans-serif;
+}
 .dropdown.menu > li.is-dropdown-submenu-parent > a::after{
   border-color: #d81f6a transparent transparent;
 }
