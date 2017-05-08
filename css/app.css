@@ -19,6 +19,9 @@ p{
 li{
   font-family: 'Muli', sans-serif;
 }
+table tbody{
+  background-color: #fffcdb;
+}
 .dropdown.menu > li.is-dropdown-submenu-parent > a::after{
   border-color: #d81f6a transparent transparent;
 }
